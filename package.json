@@ -4,8 +4,8 @@
   "description": "",
   "main": "profile.html",
   "scripts": {
-    // "lite": "lite-server",
-    // "start": "npm run lite",
+    "lite": "lite-server",
+    "start": "npm run lite",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
